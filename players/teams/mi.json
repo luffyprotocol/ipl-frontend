@@ -1,0 +1,219 @@
+{
+  "player": [
+    {
+      "name": "BATTERS",
+      "isHeader": true
+    },
+    {
+      "id": "576",
+      "name": "Rohit Sharma",
+      "role": "Batter",
+      "imageId": 352478,
+      "battingStyle": "Right-hand bat",
+      "bowlingStyle": "Right-arm offbreak"
+    },
+    {
+      "id": "13169",
+      "name": "Tim David",
+      "role": "Batter",
+      "imageId": 244810,
+      "battingStyle": "Right-hand bat",
+      "bowlingStyle": "Right-arm medium"
+    },
+    {
+      "id": "13915",
+      "name": "Nehal Wadhera",
+      "role": "Batter",
+      "imageId": 174146,
+      "battingStyle": "Left-hand bat",
+      "bowlingStyle": "Right-arm legbreak"
+    },
+    {
+      "id": "20538",
+      "name": "Dewald Brevis",
+      "role": "Batter",
+      "imageId": 226302,
+      "battingStyle": "Right-hand bat",
+      "bowlingStyle": "Right-arm legbreak"
+    },
+    {
+      "id": "7915",
+      "name": "Suryakumar Yadav",
+      "role": "Batter",
+      "imageId": 352481,
+      "battingStyle": "Right-hand bat",
+      "bowlingStyle": "Right-arm offbreak"
+    },
+    {
+      "id": "14504",
+      "name": "Tilak Varma",
+      "role": "Batter",
+      "imageId": 226525,
+      "battingStyle": "Left-hand bat",
+      "bowlingStyle": "Right-arm offbreak"
+    },
+    {
+      "id": "36139",
+      "name": "Naman Dhir",
+      "role": "Batter",
+      "imageId": 174146,
+      "battingStyle": "Right-hand bat",
+      "bowlingStyle": "Right-arm offbreak"
+    },
+    {
+      "id": "14408",
+      "name": "Shivalik Sharma",
+      "role": "Batter",
+      "imageId": 174146,
+      "battingStyle": "Left-hand bat",
+      "bowlingStyle": "Right-arm legbreak"
+    },
+    {
+      "name": "ALL ROUNDERS",
+      "isHeader": true
+    },
+    {
+      "id": "9647",
+      "name": "Hardik Pandya",
+      "captain": true,
+      "role": "Batting Allrounder",
+      "imageId": 352482,
+      "battingStyle": "Right-hand bat",
+      "bowlingStyle": "Right-arm fast-medium"
+    },
+    {
+      "id": "13496",
+      "name": "Shams Mulani",
+      "role": "Batting Allrounder",
+      "imageId": 174146,
+      "battingStyle": "Left-hand bat",
+      "bowlingStyle": "Left-arm orthodox"
+    },
+    {
+      "id": "9746",
+      "name": "Shreyas Gopal",
+      "role": "Bowling Allrounder",
+      "imageId": 226505,
+      "battingStyle": "Right-hand bat",
+      "bowlingStyle": "Right-arm legbreak"
+    },
+    {
+      "id": "14190",
+      "name": "Kumar Kartikeya",
+      "role": "Bowling Allrounder",
+      "imageId": 327479,
+      "battingStyle": "Right-hand bat",
+      "bowlingStyle": "Left-arm wrist-spin"
+    },
+    {
+      "id": "3007",
+      "name": "Mohammad Nabi",
+      "role": "Bowling Allrounder",
+      "imageId": 352437,
+      "battingStyle": "Right-hand bat",
+      "bowlingStyle": "Right-arm offbreak"
+    },
+    {
+      "id": "13747",
+      "name": "Arjun Tendulkar",
+      "role": "Bowling Allrounder",
+      "imageId": 154048,
+      "battingStyle": "Left-hand bat",
+      "bowlingStyle": "Left-arm fast-medium"
+    },
+    {
+      "name": "WICKET KEEPERS",
+      "isHeader": true
+    },
+    {
+      "id": "10276",
+      "name": "Ishan Kishan",
+      "role": "WK-Batter",
+      "imageId": 352492,
+      "battingStyle": "Left-hand bat"
+    },
+    {
+      "id": "12088",
+      "name": "Harvik Desai",
+      "role": "WK-Batter",
+      "imageId": 169799,
+      "battingStyle": "Right-hand bat"
+    },
+    {
+      "name": "BOWLERS",
+      "isHeader": true
+    },
+    {
+      "id": "466",
+      "name": "Piyush Chawla",
+      "role": "Bowler",
+      "imageId": 152613,
+      "battingStyle": "Left-hand bat",
+      "bowlingStyle": "Right-arm legbreak"
+    },
+    {
+      "id": "14598",
+      "name": "Anshul Kamboj",
+      "role": "Bowler",
+      "imageId": 174146,
+      "battingStyle": "Right-hand bat",
+      "bowlingStyle": "Right-arm fast-medium"
+    },
+    {
+      "id": "13646",
+      "name": "Romario Shepherd",
+      "role": "Bowler",
+      "imageId": 226370,
+      "battingStyle": "Right-hand bat",
+      "bowlingStyle": "Right-arm fast-medium"
+    },
+    {
+      "id": "13320",
+      "name": "Gerald Coetzee",
+      "role": "Bowler",
+      "imageId": 351631,
+      "battingStyle": "Right-hand bat",
+      "bowlingStyle": "Right-arm fast"
+    },
+    {
+      "id": "9311",
+      "name": "Jasprit Bumrah",
+      "role": "Bowler",
+      "imageId": 352488,
+      "battingStyle": "Right-hand bat",
+      "bowlingStyle": "Right-arm fast"
+    },
+    {
+      "id": "15727",
+      "name": "Akash Madhwal",
+      "role": "Bowler",
+      "imageId": 174146,
+      "battingStyle": "Right-hand bat",
+      "bowlingStyle": "Right-arm fast-medium"
+    },
+    {
+      "id": "18509",
+      "name": "Nuwan Thushara",
+      "role": "Bowler",
+      "imageId": 226338,
+      "battingStyle": "Right-hand bat",
+      "bowlingStyle": "Right-arm fast-medium"
+    },
+    {
+      "id": "23346",
+      "name": "Kwena Maphaka",
+      "role": "Bowler",
+      "imageId": 174146,
+      "battingStyle": "Left-hand bat",
+      "bowlingStyle": "Left-arm medium"
+    },
+    {
+      "id": "9821",
+      "name": "Luke Wood",
+      "role": "Bowler",
+      "imageId": 158044,
+      "battingStyle": "Left-hand bat",
+      "bowlingStyle": "Left-arm fast-medium"
+    }
+  ]
+}
